@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Série Histórica de Preços de Combustíveis (01/2015 - 06/2022)
 ### (Historical Fuel Price Series in Brazil)
 
@@ -27,4 +28,6 @@ Fonte (Data Source): https://dados.gov.br/dataset/serie-historica-de-precos-de-c
 
 © 2022 Gui Natel
 
+=======
+>>>>>>> 3886db9bcba9b091353d30a2849f433a87a959f9
 
