@@ -5,7 +5,8 @@ Esse projeto tem por objetivo a análise e criação de um dashboard interativo 
 
 The purpose of this project is the creation and analysis of an interactive dashboard showing the price variation of several types of fuel in Brazil from January of 2015 to June of 2022. Analyzed fuels: Regular Gas, Premium Gas, Ethanol, Diesel, Diesel S10 and Compressed Natural Gas.
 
-Fonte (Data Source): https://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda /n
+Fonte (Data Source): https://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda
+
 Dashboard Interativo (Interactive Dashboard): https://app.powerbi.com/view?r=eyJrIjoiN2I4MTkyZGUtNmNjMi00YzExLWJlNzYtZTBiY2E0OTM1YTlhIiwidCI6IjQ0NDQzZTU3LTZlZGItNDllOS04ZWNjLTNkODZkNWMwM2FjYyJ9
 
     Microsoft Power BI Dashboard
