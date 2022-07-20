@@ -8,9 +8,13 @@ The purpose of this project is the creation and analysis of two interactive dash
 Fonte (Data Source): https://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda
 
 Dashboard Interativo dos Combustíveis (Interactive Dashboard - Fuels): 
+
 https://app.powerbi.com/view?r=eyJrIjoiN2I4MTkyZGUtNmNjMi00YzExLWJlNzYtZTBiY2E0OTM1YTlhIiwidCI6IjQ0NDQzZTU3LTZlZGItNDllOS04ZWNjLTNkODZkNWMwM2FjYyJ9
+
 Dashboard Interativo do Gás de Cozinha (Interactive Dashboard - Cooking Gas): 
+
 https://app.powerbi.com/view?r=eyJrIjoiOGVkN2M5MmUtYmRjMS00YzlkLWE5Y2MtYjFkMzk5MzU5M2JiIiwidCI6IjQ0NDQzZTU3LTZlZGItNDllOS04ZWNjLTNkODZkNWMwM2FjYyJ9
+
 
     Microsoft Power Bi Fuels Dashboard
 ![](https://raw.githubusercontent.com/guinatel/Historical-Fuel-Price-Series-in-Brazil/main/IMG/dashboard%20example%201.gif)
